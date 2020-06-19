@@ -35,7 +35,7 @@ a {
 
 header, footer {
     text-align: center;
-    background-color: rgba(217, 217, 217, 0.8);
+    background-color: rgba(116, 167, 226, 0.8);
 }
 
 header { 
@@ -222,7 +222,6 @@ de baixo e à direita da tela */
         position: fixed;
         width: 100%;
         top: 0;
-        background-color: rgba(192, 192, 192, 0.808);
     }
 
     /* Como o position: fixed no header fez com que ele ficasse
